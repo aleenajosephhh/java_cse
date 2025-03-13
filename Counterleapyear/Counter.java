@@ -4,7 +4,7 @@ public class Counter{
         for(int i = 2020;i<2030;i++){
             if(i%4==0)
             {
-                count = count+1;
+                count = count+i;
         
             }
             System.out.println(count);
