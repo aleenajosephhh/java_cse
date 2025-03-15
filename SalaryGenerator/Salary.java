@@ -14,7 +14,7 @@ public class Salary
             double salary1 = salary + percent;
             System.out.println("the salary is :" + salary1);
         }
-        else if(1 == 2)
+        else if(i == 2)
         {
             double percent2 = salary * 0.2;
             double salary2 =salary + percent2;
