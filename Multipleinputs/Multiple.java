@@ -12,9 +12,6 @@ public class Multiple{
             i = i+1;
 
         }
-        while(i<n){
-            System.out.println("enetr the values:"+a[i]);
-            i = i+1;
-        }
+        
     }
 }
